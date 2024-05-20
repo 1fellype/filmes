@@ -6,8 +6,6 @@
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
- - Para um melhor entendimento traduza a página atráves do navegador
-
 ## Acesso 👨🏻‍💻
  [Clique aqui para acessar! :)](https://geradorfilmes-fellype.vercel.app)
 
