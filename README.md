@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso 👨🏻‍💻
- [Clique aqui para acessar! :)](https://geradorfilmes-fellype.vercel.app)
+ [Clique aqui para acessar! :)](https://galeria-fellype.vercel.app)
 
 ## Tecnologias 👾
 - HTML
